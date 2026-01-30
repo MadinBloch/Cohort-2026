@@ -13,7 +13,9 @@ This Project is a Single Page Resume website built using only HTMl
 2. Open `index.html` in any web browser
 
 # Link to see live
-`https://madinbloch.github.io/Cohort-2026/`
+
+Visit the [Live URL](https://madinbloch.github.io/Cohort-2026/) 
+
    
 
 
