@@ -1,15 +1,15 @@
-# Resume Assignment 
+# Cohort 2026
 
-This Project is a Single Page Resume website built using only HTMl
+This repository contains all the assignments, practice work, and related materials for **Cohort 2026**.
 
-# Features 
-- Clean HTML structure
-- Semantic tags
-- Tables and lists for clarity
+## What’s inside
+- All cohort assignments
+- Practice exercises
+- Project-related files
+- Notes and experiments done during the cohort
 
-## How to Run
+## Purpose
+This repo is used to track learning progress and store all work completed as part of Cohort 2026.
 
-1. Clone the Repository
-2. Open `index.html` in any web browser
-
-
+## Status
+Work will be added and updated regularly as the cohort progresses.
